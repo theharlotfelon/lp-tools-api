@@ -1,0 +1,1 @@
+A simple API to check skill dependencies. When trying to delete skills, it will usually give some type of error telling you what type of dependency is preventing you from delete the skill but it will not tell you the specific item. This will respond with specific name/IDs of each dependency for easy removal. 
